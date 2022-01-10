@@ -63,7 +63,7 @@ Versão mais recente: [Anihub BETA](https://www.mediafire.com/file/d1ms5ah5zsjyr
    ![05](https://user-images.githubusercontent.com/76141331/148701078-446b1184-c37f-4ab0-bf5a-3b5afb1cdda9.png)
    ![06](https://user-images.githubusercontent.com/76141331/148701080-b4281833-363a-49f8-a936-e3b4ce95291a.png)
 
-- Agora é só clical em **JOGAR** e se divertir!
+- Agora é só clicar em **JOGAR** e se divertir!
 
    ![tips](https://user-images.githubusercontent.com/76141331/148701193-fb5ae5eb-9b16-48fe-a243-8a4eb29892c4.png)
 
